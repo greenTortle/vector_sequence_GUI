@@ -1,6 +1,6 @@
 # Overall Information:
 
-- This repository contains vibe-coded Python and C files as tools to explore the mathematical object defined in the LaTeX doc
+- This repository contains vibe-coded Python and C files as tools to explore the mathematical object defined in the PDF
 - Claude Code, Grok, and some ChatGPT Plus were used to generate most code
 
 
@@ -9,7 +9,7 @@
  
 ## "vector_sequence_GUI.py"
  
-> GUI that takes input k, sequence type, starting x_0, ending x_0, how many v_n to check, and how many v_n to print, and calculates the associated vector sequences outlined in the LaTeX document. It gives information for individual vector sequences including long-term behavior (zeroed, grown, cycling), which cycle it is in, and more.
+> GUI that takes input k, sequence type, starting x_0, ending x_0, how many v_n to check, and how many v_n to print, and calculates the associated vector sequences outlined in the PDF. It gives information for individual vector sequences including long-term behavior (zeroed, grown, cycling), which cycle it is in, and more.
 
 ## "sequence_simulator.py"
   
